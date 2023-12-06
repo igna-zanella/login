@@ -43,8 +43,8 @@ body {
 }
 
 .portada {
-    padding: .5rem;
-    width: 70%;
+    /* padding: .1rem; */
+    width: 60%;
     background-color: #ffffff;
     box-sizing: border-box;
     overflow: hidden;
@@ -153,9 +153,9 @@ body {
         /* height: 55%; */
         width: 300px;
     }
-    .contenedor-gral {
-        /* height: 90%; */
-    }
+    /* .contenedor-gral {
+        height: 90%;
+    } */
 
     .info > p {
         margin: 0;
