@@ -107,6 +107,11 @@ body {
     margin: 0;
 }
 
+.formulario a {
+    margin: 0;
+    text-decoration: none;
+}
+
 .span {
     color: #0611af;
     font-weight: 600;
